@@ -498,6 +498,38 @@ Twitter: https://twitter.com/grymoire
 
 ![](https://raw.githubusercontent.com/rfhs/rfhs-wiki/master/files/images/defcon30wwwdrigs/grymoire/empw667w4aicfe8.jpg)
 
+## #92 - kmfdmk
+
+### Social Media
+
+Discord: black_magic
+
+### Rig Setup
+SGS5 w/ Wigle & Highway Radar
+SGS20 w/ Wigle
+
+Toshiba NB205 w/ Kali SD live boot
+4x AWUS 036-ACM
+1x AWUS 036-NHA w/ 7dbi
+BU-353-S4 USB GPS
+
+### Rig Pics
+![20220717_140329](https://user-images.githubusercontent.com/111460163/185497977-a97528b7-07d9-4ac7-afed-66d9d6f29314.jpg)
+
+![20211230_105243](https://user-images.githubusercontent.com/111460163/185498029-22d42e20-9a12-472d-839b-8de60356001f.jpg)
+
+![IMG_20211130_230055_987](https://user-images.githubusercontent.com/111460163/185498110-c5f63126-e417-44bc-a331-155f9a9a4876.jpg)
+
+![20220526_171515](https://user-images.githubusercontent.com/111460163/185498139-362887c4-e371-4a0c-acd5-bc2da24884af.jpg)
+
+![20220108_104642](https://user-images.githubusercontent.com/111460163/185498177-ad44da69-474a-45f9-b9d7-715a2f0a6420.jpg)
+
+![20220112_153220](https://user-images.githubusercontent.com/111460163/185498206-c09a8ff9-fe6f-4aa9-b928-db36e3140337.jpg)
+
+![IMG_20211218_180337](https://user-images.githubusercontent.com/111460163/185498234-d7ea79e1-edb4-4833-b6b2-99c1df8dfb4e.jpg)
+
+![20220816_182813](https://user-images.githubusercontent.com/111460163/185498316-710b6841-5b52-4b01-95ab-3f700233b7cf.jpg)
+
 ------
 
 See you next year!
